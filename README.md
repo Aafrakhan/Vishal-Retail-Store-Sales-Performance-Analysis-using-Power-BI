@@ -41,7 +41,7 @@ The dataset consists of three related tables:
 
 ## Key Insights
 1. Home was the top-performing category with 473K in sales, nearly double Electronics (208.47K).
-2. Revenue dropped sharply from January (236K) to November (80K) — a steady month-over-month decline worth investigating.
+2. Revenue dropped sharply from January (236K) to November (80K) a steady month-over-month decline worth investigating.
 3. Sheffield led all cities in revenue at 233.61K, closely followed by Birmingham at 224.89K.
 4. Loyalty program members drove 51.54% of total sales (847.8K), showing the program's positive impact on repeat purchases.
 
